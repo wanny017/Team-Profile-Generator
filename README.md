@@ -19,7 +19,7 @@
   This Team Generator application takes in command-line input to collect certain professional details about each individual. In this application, the user is able to add a Manager, an Engineer, and an Intern to their team. From there, a functional and professionally formatted HTML document is rendered to the ```dist``` folder.
 
   ## Demo
-
+  ![Application Preview](assets/demo.png)
   ![Application Preview](assets/shortfulldemo.gif)
 
   To view the full demo, please direct yourself to ```assests``` folder.
